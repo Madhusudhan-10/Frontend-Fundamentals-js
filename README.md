@@ -56,6 +56,14 @@ This repository is organized to reflect a clean and beginner-friendly frontend s
 - Structuring a frontend project using modern tooling
 - Translating requirements into working UI behavior
 
+## My Contributions
+
+- Wrote and organized JavaScript logic for handling user interactions
+- Implemented DOM manipulation for dynamic UI updates
+- Structured the project files for clarity and maintainability
+- Configured the project setup using Vite and npm
+- Debugged and tested UI behavior during development
+
 ## Note
 This repository is intended for learning and practice purposes.
 It focuses on building foundational frontend understanding rather than a production-ready application.
