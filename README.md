@@ -48,6 +48,14 @@ This repository is organized to reflect a clean and beginner-friendly frontend s
 - vite.config.js
   - Configuration for the Vite build tool
 
+## What This Project Demonstrates
+
+- Ability to work with core JavaScript without relying heavily on frameworks
+- Understanding of how the DOM, events, and UI updates work together
+- Writing readable and maintainable frontend logic
+- Structuring a frontend project using modern tooling
+- Translating requirements into working UI behavior
+
 ## Note
 This repository is intended for learning and practice purposes.
 It focuses on building foundational frontend understanding rather than a production-ready application.
