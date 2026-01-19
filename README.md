@@ -3,6 +3,7 @@
 ## Description
 This repository contains frontend practice work completed while learning JavaScript and frontend development fundamentals.
 It focuses on understanding how modern frontend tools work together with core JavaScript concepts.
+This project emphasizes fundamentals over frameworks, focusing on how JavaScript interacts with the DOM in real applications.
 
 ## Topics Covered
 - JavaScript fundamentals
@@ -20,11 +21,32 @@ It focuses on understanding how modern frontend tools work together with core Ja
 - Managing frontend dependencies with npm
 
 ## Tech Stack
-- JavaScript
-- React
+- JavaScript (ES6+)
 - HTML
 - CSS
 - Vite
+- npm
+
+## Project Structure
+
+This repository is organized to reflect a clean and beginner-friendly frontend setup using modern tooling.
+
+- public/
+  - Static assets served directly by the browser
+
+- src/
+  - Core JavaScript source code
+  - Handles DOM manipulation, event handling, and UI logic
+
+- index.html
+  - Application entry point
+  - Connects HTML structure with JavaScript logic
+
+- package.json
+  - Manages dependencies and scripts
+
+- vite.config.js
+  - Configuration for the Vite build tool
 
 ## Note
 This repository is intended for learning and practice purposes.
